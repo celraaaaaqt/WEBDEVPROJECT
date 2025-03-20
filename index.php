@@ -47,7 +47,7 @@
             border-collapse: collapse;
             border: 2px solid #00ffff;
             font-size: 20px;
-            height: 85px;
+            height: 60px;
             width: 50%;
             color: white;
             padding: 12px;
